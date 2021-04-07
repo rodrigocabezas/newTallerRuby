@@ -1,9 +1,9 @@
-##HOW TO RUN THE SERVER
-*IN FOLDER newTallerRuby EXECUTE SERVER CONNECTION
-*IN TERMINAL PUTS ruby server.rb
-*THEN WE HAVE TU RUN THE CLIENT CONNECTION
-*IN TERMINAL PUTS ruby client.rb
-######THIS IS THE SYNTAX:
+## HOW TO RUN THE SERVER
+* IN FOLDER newTallerRuby EXECUTE SERVER CONNECTION
+* IN TERMINAL PUTS ruby server.rb
+* THEN WE HAVE TU RUN THE CLIENT CONNECTION
+* IN TERMINAL PUTS ruby client.rb
+###### THIS IS THE SYNTAX:
 *       get [key] *
 *       gets [key,key2] *
 *       set [key] [flags ] [expiration] ENTER *
@@ -19,4 +19,4 @@
 *       cas [key] [flags ] [expiration] [1] ENTER *
 *	   [value] *
 	   
-######FINALLY TO RUN THE TEST, YOU HAVE TO PUT IN TERMINAL ruby spec/test_spec.rb	   
+###### FINALLY TO RUN THE TEST, YOU HAVE TO PUT IN TERMINAL ruby spec/test_spec.rb	   
